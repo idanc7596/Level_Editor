@@ -1,7 +1,7 @@
 # Level Editor
 Level Editor for the game Save the King.
 <br>Build your own cusomized level for Save the King game.
-<br>Written in C++ using SFML
+<br>Written in C++ using SFML.
 <br> Made as a part of OOP1 course by @ranelbe and me.
 
 
